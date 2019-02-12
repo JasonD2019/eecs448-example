@@ -11,6 +11,7 @@ LinkedList<T>::LinkedList() : m_front(nullptr), m_size(0)
 
 }
 
+
 template <typename T>
 LinkedList<T>::~LinkedList() 
 {
